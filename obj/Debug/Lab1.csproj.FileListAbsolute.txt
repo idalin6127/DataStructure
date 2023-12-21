@@ -1,0 +1,8 @@
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#1\Lab1\bin\Debug\Lab1.exe.config
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#1\Lab1\bin\Debug\Lab1.exe
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#1\Lab1\bin\Debug\Lab1.pdb
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#1\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#1\Lab1\obj\Debug\Lab1.exe
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#1\Lab1\obj\Debug\Lab1.pdb
